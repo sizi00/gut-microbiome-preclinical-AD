@@ -40,7 +40,7 @@ Ferreiro et al. (2023), *Science Translational Medicine* 논문의 공개 데이
 - MaAsLin2 음이항 회귀 (AD 연관 미생물 종·대사 경로 탐색)
 - Spearman 상관 분석 및 바이오마커 회귀 분석
 
-### ML Modeling (Python) — 직접 작성
+### ML Modeling (Python) 
 `random_forest_model.ipynb` 참고
 
 - **변수 프레임워크:** A(Amyloid), T(Tau), N(Neurodegeneration), G(Genetics), CC(Clinical Covariates)
